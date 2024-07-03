@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://github.com/siniekoo19/Demo-Project",
+  "homepage": "https://github.com/siniekoo19.github.io/Demo-Project",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
