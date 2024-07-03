@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/working-woman.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Woman with laptop";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Male Female Voice Identification App",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A male-female voice identification system using deep learning.",
+    url: "https://github.com/siniekoo19/Male-Female-Voice-Identification",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Movie Recommendation System",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A Recommendation System web application utilizing Cosine Similarity and Streamlit library.",
+    url: "https://github.com/siniekoo19/Movie-Recommandation-System",
   },
   {
-    title: "My Resume Site",
+    title: "Digital Resume",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A digital Resume, deployed to GitHub pages. Includes my experience and design abilities.",
+    url: "https://siniekoo19.github.io/Digital-Resume-Using-HTML-CSS-BOOSTRAP/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Currency Converter",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A dynamic Currency Converter application with HTML, CSS, and JavaScript, leveraging an external API to facilitate real-time currency conversions between countries.",
+    url: "https://siniekoo19.github.io/Currency-Converter/",
   },
 ];
 
